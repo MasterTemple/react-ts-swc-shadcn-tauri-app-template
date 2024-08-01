@@ -1,4 +1,4 @@
-# <Insert Cool Name>
+# Shadcn + Rust
 
 This is a template for developing native applications in Rust with Shadcn UI.
 This uses a React front-end in TypeScript + SWC using TailwindCSS and Shadcn.
