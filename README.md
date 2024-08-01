@@ -1,7 +1,12 @@
-# Tauri + Vanilla
+# <Insert Cool Name>
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This is a template for developing native applications in Rust with Shadcn UI.
+This uses a React front-end in TypeScript + SWC using TailwindCSS and Shadcn.
+This uses a Tauri/Rust back-end.
 
-## Recommended IDE Setup
+While there can be a variety of adaptations of this template, my initial goal is to write an application in Rust, but make use of Shadcn for my UI.
+I believe Shadcn will be supported in Dioxus v0.6 because Shadcn is in their [roadmap](https://github.com/DioxusLabs/dioxus/discussions/2223)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Setup
+
+I believe all that is needed is running `npm install` in **both** the `.` and `./src-react/` directories.
