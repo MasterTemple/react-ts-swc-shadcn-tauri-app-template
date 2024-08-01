@@ -11,7 +11,11 @@ I believe Shadcn will be supported in Dioxus v0.6 because Shadcn is in their [ro
 
 I believe all that is needed is running `npm install` in **both** the `.` and `./src-react/` directories.
 
-# Add Shadcn Component
+# Shadcn Components
+
+**I have already added all of them to this repository.**
+
+However, they are added with
 
 ```bash
 cd src-react
