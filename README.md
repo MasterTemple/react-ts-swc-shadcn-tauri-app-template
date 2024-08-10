@@ -11,6 +11,8 @@ I believe Shadcn will be supported in Dioxus v0.6 because Shadcn is in their [ro
 
 I believe all that is needed is running `npm install` in **both** the `.` and `./src-react/` directories.
 
+Run the application with `npm run tauri dev` and build it with `npm run tauri build`
+
 # Shadcn Components
 
 **I have already added all of them to this repository.**
